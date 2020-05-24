@@ -1,4 +1,4 @@
-# Name : Tegar Sabila
+# Name : mr.T
 # Author : ./Kanchil-ID
 
 r="\033[1;31m"
@@ -15,7 +15,7 @@ tahun=`date +%Y`
 waktu=`date +%T`
 zona=`date +%Z`
 clear
+figlet -f smslant "Kanchil-ID" | lolcat
 figlet -f slant "Kali-Linux" | lolcat
-cowsay -f milk "MilkChoco" | lolcat
-echo -e "${y}Nama:${g}Tegar Sabila\n${y}Sekolah :${g}SMK KOMPUTER INDONESIA\n${y}Alamat :${g}Bogor\n${y}WhatsApp :${g}082125068665\n${y}Instagram :${g}@Kanchil_Gans08\n\n${g}[${w} ZONA WAKTU ${g}]${y}═══🌍═══${g}[${c} $zona${g} ]${y}\n${g}[${w} HARI ${g}]${y}═══🌖═══${g}[ ${c}$hari ${g}]\n${g}[ ${w}JAM${g} ]${y}══🕛══${g}[${c} $waktu ${g}] \n${g}[${w} TANGGAL ${g}]${y}══📆══${g}[${w} BULAN ${g}]${y}═══📆═══${g}[${w} TAHUN ${g}]\n${g}[${w} $tanggal ${g}]${y}═══📆═══${g}[${w} $bulan ${g}]${y}══📆══${g}[${w} $tahun ${g}]\n${g}<${y}════════════════════════════════════════════════${g}>"
-export PS1='\n\n\[\033[1;32m\][\[\033[1;35m\]$hari\[\033[1;32m\]]\[\033[1;32m\][\[\033[1;35m\]$waktu\[\033[1;32m\]]\[\033[1;32m\][\[\033[1;35m\]$tanggal $bulan $tahun\[\033[1;32m\]]\n\[\033[1;33m\]@\[\033[1;31m\]TegarSabila\[\033[1;36m\]@\[\033[1;32m\]Linux\[\033[1;32m\]\[\033[1;33m\]~\[\033[1;35m\]${PWD/*\//}\[\033[1;32m\]•\[\033[1;33m\]>\[\033[1;37m\] '
+echo -e "${y}Nama:${g}Kanchil-ID\n${y}Sekolah :${g}SMK KOMPUTER INDONESIA\n${y}Alamat :${g}Bogor\n${y}WhatsApp :${g}082125068665\n${y}Instagram :${g}@Kanchil_Gans08\n\n${g}[${w} ZONA WAKTU ${g}]${p}═══🌍═══${g}[${c} $zona${g} ]${y}\n${g}[${w} HARI ${g}]${p}═══🌖═══${g}[ ${c}$hari ${g}]\n${g}[ ${w}JAM${g} ]${p}══🕛══${g}[${c} $waktu ${g}] \n${g}[${w} TANGGAL ${g}]${p}══📆══${g}[${w} BULAN ${g}]${p}═══📆═══${g}[${w} TAHUN ${g}]\n${g}[${r} $tanggal ${g}]${p}═══📆═══${g}[${r} $bulan ${g}]${p}══📆══${g}[${r} $tahun ${g}]\n${g}<${pur}════════════════════════════════════════════════${g}>"
+export PS1='\n\n\[\033[1;32m\][\[\033[1;35m\]$hari\[\033[1;32m\]]\[\033[1;32m\][\[\033[1;35m\]$waktu\[\033[1;32m\]]\[\033[1;32m\][\[\033[1;35m\]$tanggal $bulan $tahun\[\033[1;32m\]]\n\[\033[1;33m\]@\[\033[1;31m\]Kanchil-ID\[\033[1;36m\]@\[\033[1;32m\]Linux\[\033[1;32m\]\[\033[1;33m\]~\[\033[1;35m\]${PWD/*\//}\[\033[1;32m\]•\[\033[1;33m\]>\[\033[1;37m\] '
